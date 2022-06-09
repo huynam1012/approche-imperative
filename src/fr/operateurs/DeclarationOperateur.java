@@ -18,6 +18,20 @@ public class DeclarationOperateur {
 		System.out.println(testOu);
 		System.out.println(a);
 		System.out.println(c);
+		
+		/*
+		byte a = 1;
+		short b = 2;
+		int c = 3;
+		long d = 4;
+		float e = 5.0f;
+		double f = 6.0;
+		char g = '7';
+		boolean h = true;
+		String i = "i",
+				randomString = String.join("\n", "Résultat:", "1 + 5 = " + (1 + 5));
+		
+		System.out.println(randomString);*/
 	}
 
 }
